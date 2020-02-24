@@ -7,4 +7,4 @@ books/
 *.log
 *.aux
 *.synctex.gz
-.autosave.xopp
+*.autosave.xopp
