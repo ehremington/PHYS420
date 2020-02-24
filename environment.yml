@@ -1,0 +1,5 @@
+name: phys420-env
+channels:
+  - defaults
+prefix: /home/eric/miniconda3/envs/phys420-env
+
